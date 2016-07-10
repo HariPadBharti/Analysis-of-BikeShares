@@ -13,4 +13,4 @@ Bikeshare 4 2014 Data
 2014 Washington DC Weather
 
 Analysis of Weather influence on Bike Use and Share. 
-Data Visualization Created to understand the pattern.
+Data Visualization created to understand the pattern.
